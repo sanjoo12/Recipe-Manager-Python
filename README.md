@@ -57,7 +57,3 @@ Instructions: Mix ingredients, form into balls, bake at 350F for 10 minutes.
   ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-bcdsnjcdkjkdcs
-njsdkcscdmcds
-123455
-fhdsjdkd
